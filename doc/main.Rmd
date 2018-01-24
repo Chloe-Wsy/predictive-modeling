@@ -1,6 +1,6 @@
 ---
-title: "Project 3 - Dogs, Fried Chicken or Blueberry Muffins?"
-author: 'Group6: Sijian Xuan, Xinyao Guo, Siyi Wang, Xiaoyu Zhou, Pinren Chen'
+title: "Project - Dogs, Fried Chicken or Blueberry Muffins?"
+author: 'Siyi Wang'
 date: "Oct 10, 2017"
 output:
   pdf_document:
